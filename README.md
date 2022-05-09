@@ -11,11 +11,7 @@
 
 - 🌱 I’m currently learning **React Native, Next.js**
 
-- 👨‍💻 All of my projects are available at [deploythis.co](https://deploythis.co)
-
 - 💬 Ask me about **React, Javascript, CSS+HTML**
-
-- 📫 How to reach me **victor@deploythis.co**
 
 - 📄 Know about my experiences [www.linkedin.com/in/victorhernandezduran](https://www.linkedin.com/in/victorhernandezduran)
 
